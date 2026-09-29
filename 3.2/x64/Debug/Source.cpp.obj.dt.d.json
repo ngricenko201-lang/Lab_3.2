@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\pr\\3.2\\3.2\\source.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
